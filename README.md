@@ -13,4 +13,4 @@ https://github.com/wen866595/open-doc/blob/master/redis-doc/Redis-RDB-Dump-File-
 
 ##捐赠
 
-本项目中的大部分注释都来自于网友的开源书籍《Redis设计与实现》， 在这里 http://www.redisbook.com/en/latest/index.html ，如果大家在条件允许的条件下适当的鼓励下这位仁兄，也算是对开源事业做贡献了。
+本项目中的大部分注释都来自于网友的开源书籍《Redis设计与实现》， 在这里 http://www.redisbook.com/en/latest/index.html ，希望大家在条件允许下适当的鼓励下这位仁兄，也算是对开源事业做贡献了。
